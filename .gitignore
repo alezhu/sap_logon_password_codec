@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+/qt/.qmake.stash
+/qt/debug/*
+/qt/deploy/*
+/qt/release/*
+*.pro.user
+/wtl/.vs/*
+/wtl/Debug/*
+/wtl/Release/*
+*.tlog
+/wtl/saplogon_pwd_enc_dec_wtl/Debug/*
+/wtl/saplogon_pwd_enc_dec_wtl/RCa28596
+/wtl/saplogon_pwd_enc_dec_wtl/Release/*
